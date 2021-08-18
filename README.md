@@ -1,0 +1,2 @@
+- trait object 练习.
+- 顺便实现一下 visitor 模式.
